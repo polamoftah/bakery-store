@@ -1,0 +1,391 @@
+/* section one */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar li {
+    float: right;
+    padding-right: 20px;
+    margin-right: 20px;
+    list-style-type: none;
+    margin-top: 10px;
+ 
+}
+
+.navbar_logo{
+
+    padding-inline: 300px;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+}
+.section1{
+    width: 100%;
+    background-size:cover;
+    background-image: url(drew-coffman-1872.jpg);
+margin:0;
+height:1200px;
+overflow: auto;
+box-sizing: border-box;
+}
+
+.content{
+   
+    font-family: "Alegreya Sans",sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    font-style: normal;
+margin-top: 10%;
+    text-align: center;
+color: azure;
+
+
+}
+.content p,h1{
+    margin: 20px;
+   
+}
+.content h1{
+    font-size: 70px;
+    
+}
+#wel{
+    font-size: 30px;
+}
+.content button{
+    padding: 20px;
+border-radius:6px;
+
+
+}
+#but{
+    color: white;
+    font-size: 17px;
+    border-radius:6px; 
+    background-color: transparent;
+    border: 3px solid white;
+}
+#bu{
+    background-color: rgb(142, 119, 84);
+    border-radius:6px;
+    border: 3px white;
+    font-size: 17px;
+}
+
+.clr{
+    clear: both;
+}
+
+.container{
+    font-size: 25px;
+    font-family: "Alegreya Sans",sans-serif;
+}
+
+
+
+
+/* .who-we-are{
+    padding: 30px 0;
+} */
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+.who-image{
+    width: 40%;
+    display: inline-block;
+
+}
+.who-content h4{
+    font-size: 50px;
+    font-weight: 200px;
+  
+}
+.who-image img{
+    width: 100%;
+    margin-top: 150px;
+}
+.who-content{
+width: 40%;
+display: inline-block;
+padding-left: 50px;
+vertical-align: 200px;
+margin-left: 150px;
+}
+.who-content p{
+    padding-bottom: 10px;
+}
+.who-content h4{
+ padding-bottom: 100px;   
+}
+.icons img{
+    display: inline-block;
+    
+}
+.icons2 p{
+    display: inline-block;
+    vertical-align: 13px;
+   
+}
+
+ 
+/* 
+.section2{
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    font-family: "Alegreya Sans",sans-serif;
+    font-size: 20px;
+   clear: both;
+   font-weight: 400;
+}
+
+.content2,.icons2{
+    margin-block: 10px;
+}
+.image2{
+margin-left: 300px;
+padding-bottom: 500px;
+padding-block:-900px 
+;
+}
+.image2 .img{
+   
+    padding-block: -400px;
+    clear: both;
+   display: inline-block;
+}
+
+.icons2{
+   
+    text-align: center;
+    margin-left: 400px;
+    font-size: 20px;
+    vertical-align: 13px;
+   
+}
+.icons2 img{
+    display: inline-block;
+    width: 40px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(142, 119, 84);
+    border: 3px black solid; 
+
+}
+
+.icons2 p{
+    display: inline-block;
+    vertical-align: 16px;
+}
+.section2 .content2{
+    width: 50%;
+    margin-top: 300px;
+    text-align: right;
+    margin-left: 600px;
+display: inline-block;
+} */
+
+/* start section 3 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section3 {
+    overflow: auto;
+    background-color: rgba(250, 235, 215,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.clr{
+    clear: both;
+}
+.content3{
+text-align: left;
+width: 40%;
+height: 700px;
+font-family: "Alegreya Sans",sans-serif;
+font-size: 30px;
+clear: both;
+margin-left: 30px;
+box-sizing: border-box;
+margin-bottom: 340px;
+padding-inline: 300px;
+text-wrap:nowrap;
+ 
+}
+.section3 .content3 h1{
+    margin-right: 20px;
+    padding-right: 500px;
+    padding: 20px;
+}
+
+.img3{
+    margin-right: 250px ;
+margin-bottom: auto;
+    float: right;
+width:45%;
+}
+.img3 img {
+    max-width: 100%;
+    height: auto;
+    border-radius:8px;
+    margin-top: 100px;
+}
+
+/* section4 */
+.section4{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Alegreya Sans",sans-serif;
+}
+.section4 .content4 p{
+    padding-bottom: 100px;
+}
+.imgs{
+    float: right;
+ text-align: center;
+padding-bottom: 100px;
+   padding-right: 50px;
+   margin-inline: 120px;
+}
+/* sectin 5 */
+.section5{
+    background-color:rgb(248, 248, 248);
+display: inline-block;
+width: 100%;
+height: 900px;
+}
+.section5 .content5{
+    font-size: 30px;
+    margin-left: 40px;
+    padding-left: 100px;
+    margin-left: 50px;;
+    margin-top: 100px;
+  
+}
+.icons img{
+    border-radius: 20px;
+width: 10px;
+display: inline-block;
+margin-left: 200px;
+margin-top: 20px;
+
+
+
+
+    }
+.icons p{
+    display: inline-block;
+margin-inline: 0px;
+
+padding-right: 500px;
+  font-size: 30px;
+
+clear: both;
+}
+
+.img5 img{
+width: 40%;
+float: right;
+margin-top: 100px;
+margin-right: 70px;
+margin-top: 70px;
+border: 10px;
+
+}
+.icons img{
+  background-color :rgb(142, 119, 84);    
+    width:50px;
+    display: inline-block;
+}
+.icons p{
+
+padding-left: 330px;
+}
+/* section6 */
+.section6{
+    font-family: "Alegreya Sans",sans-serif;
+    width: 100%;
+    background-color: rgb(64, 61, 56);
+    height: 600px;
+}
+.content6,.content6{
+     font-size:18px;
+    font-weight:400; 
+    float: right;
+    text-align: center;
+    padding-inline: 3px;
+    margin-right: 400px;
+    color: white;
+    float: right;
+}
+.content6_st img{
+    display: inline-block;
+    width: 40px;
+    margin-top: 20px;
+clear: both;
+overflow: auto;
+}
+.content6_st{
+    font-size:18px;
+    font-weight:400; 
+    margin-top: 60px;
+    display: inline-block;
+    margin-left: 200px;
+    color: white;
+
+}
+.content6_st p{
+    display: inline-block;
+    clear: both;
+
+margin-bottom: 15px;   
+ padding:3px; 
+ vertical-align: 10px;
+}
+
+
+.content6 h5{
+    padding-top: 40px;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
+/* section7 */
+.section7{
+  
+    overflow: auto;
+
+   
+    text-align: center;
+    width: 100%;
+    height: 400px;
+    /* background-color:  rgb(119, 119, 119); */
+    background-color: rgba(72, 69, 64,1);
+}
+
+.section7 img{
+    border-radius: 30px;
+    background-color: rgb(72, 69, 64);
+ 
+width:50px;
+}
+
+#img_one{
+ 
+  width: 400px;
+    overflow: hidden;
+   padding-block: 100px;
+    background-color: transparent;
+   
+}
